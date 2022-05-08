@@ -1,0 +1,11 @@
+﻿cl : コマンド ライン warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  winmain.cpp
+  Map.cpp
+  ActionGame.cpp
+  input.cpp
+  graphics.cpp
+  game.cpp
+  File.cpp
+  コードを生成中...
+File.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+  EnginePart1.vcxproj -> C:\Users\Type-\MyGame\Debug\EnginePart1.exe
